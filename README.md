@@ -11,6 +11,6 @@ https://signal.vercel.app/
 
 The project was a comparitive study and to showcase that LSTMs can be used as for generating music and further tells that the issues arrised in this must be addressed.
 <br>
-[**View Report**]()
+[**View Report**](major_report.docx)
 <br>
 [In-depth Code Explaination](https://github.com/Opty0602/MelodyGeneration/blob/71ec112b9ff8e46016d9cf71d2eba9dbe822188e/musicgeneration_summary.docx)
