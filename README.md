@@ -9,7 +9,7 @@ then comes generating the the notes. **[Use generateMusic.ipynb]**
 Generated results will be shown in the result folder and you can use the following website to listen to the midi file. 
 https://signal.vercel.app/
 
-The project was a comparitive study and to showcase that LSTMs can be used as for generating music and further tells that the issues arrised in this must be addressed.
+The project was a comparitive study and to showcase that LSTMs can be used as for generating music and further pinpoints that the issues arised in this must be addressed.
 <br>
 [**View Report**](major_report.docx)
 <br>
