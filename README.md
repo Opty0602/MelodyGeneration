@@ -1,4 +1,5 @@
 THIS IS MY COLLEGE MAJOR PROJECT!!
+<br>
 Feel free to snoop around and it does provides insightfull knowledge about LSTMs/GRU and Music Theory.
 <br>
 
